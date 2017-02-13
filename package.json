@@ -1,5 +1,5 @@
 {
-  "name": "Vector.js",
+  "name": "vector-js",
   "version": "0.0.0",
   "description": "Generic Javascript Vector Class",
   "main": "lib/Vector.js",
